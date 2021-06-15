@@ -1,5 +1,5 @@
 # Parkinsons-Disease-Classifier
-A regularized logistic regression model built from scratch that is used to predict whether a patient is suffering from Parkinson's disease or is healthy.
+A regularized logistic regression model built from scratch that is used to predict whether a patient is suffering from Parkinson's disease or is healthy. The code utilises SciPy optimize and Gradient Descent algorithm to make the predictions.
 
 ##### parkinsons.names
 A file containing information pertaining to the entire dataset.
